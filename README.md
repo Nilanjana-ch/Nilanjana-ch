@@ -13,7 +13,7 @@
 -->
 
 # 💫 About Me:
-Hi, I'm Prianka, a final year Computer Science and Engineering student and aspiring Full Stack Developer with hands-on experience in building scalable, secure web applications. I enjoy turning ideas into reliable digital products and exploring new technologies.<br><br>🎓 Final year BSc in CSE student<br>🔭 Currently building: YOUR CURRENT PROJECT<br>🌱 Learning Node.js, Express.js and advanced Web Security<br>⚡ Researching: YOUR TOPIC (or remove this line)<br>📍 Based in YOUR CITY, Bangladesh<br>
+Hi, I'm Nilanjana, a final year Computer Science and Engineering student and aspiring Full Stack Developer with hands-on experience in building scalable, secure web applications. I enjoy turning ideas into reliable digital products and exploring new technologies.<br><br>🎓 Final year BSc in CSE student<br>🔭 Currently building: YOUR CURRENT PROJECT<br>🌱 Learning Node.js, Express.js and advanced Web Security<br>⚡ Researching: YOUR TOPIC (or remove this line)<br>📍 Based in YOUR CITY, Bangladesh<br>
 
 ---
 
@@ -91,11 +91,11 @@ Hi, I'm Prianka, a final year Computer Science and Engineering student and aspir
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Prian799&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Nilanjana-ch&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Prian799&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nilanjana-ch&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prian799&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nilanjana-ch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -127,5 +127,5 @@ Write 2-3 sentences about what the project does, what you built, and the key fea
 
 ## 👀 Profile Views
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Prian799&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Nilanjana-ch&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
